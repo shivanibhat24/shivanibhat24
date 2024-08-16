@@ -62,9 +62,6 @@ Hello! I'm **Shivani Bhat**, an enthusiastic and innovative engineering student 
 [![3D Modelling](https://img.shields.io/badge/3D%20Modelling-000000?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/3D_modeling)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 [![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-FF4B5C?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Digital_marketing)
-[![SEO Optimization](https://img.shields.io/badge/SEO%20Optimization-
-
-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Search_engine_optimization)
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Prompt_engineering)
 
 ## 🎨 Hobbies & Interests
