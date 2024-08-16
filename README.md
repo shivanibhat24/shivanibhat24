@@ -52,6 +52,26 @@ Hello! I'm **Shivani Bhat**, an enthusiastic and innovative engineering student 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
+### ML Libraries
+[![Pandas](https://img.shields.io/badge/Pandas-DataAnalysis-green)](https://pandas.pydata.org/)
+[![Pytorch](https://img.shields.io/badge/Pytorch-DeepLearning-orange)](https://pytorch.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-blue)](https://opencv.org/)
+[![Scipy](https://img.shields.io/badge/Scipy-ScientificComputing-yellow)](https://www.scipy.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-NLP-red)](https://www.nltk.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-ArrayComputing-lightblue)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-DataVisualization-purple)](https://matplotlib.org/)
+[![Keras](https://img.shields.io/badge/Keras-DeepLearning-lightgray)](https://keras.io/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-StatisticalGraphics-darkgreen)](https://seaborn.pydata.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-MachineLearning-yellowgreen)](https://xgboost.ai/)
+[![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-MachineLearning-blueviolet)](https://scikit-learn.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-InteractiveGraphing-royalblue)](https://plotly.com/)
+
+### Operating Systems I have worked with
+[![Linux](https://img.shields.io/badge/Linux-OpenSource-black)](https://www.linux.org/)
+[![Windows](https://img.shields.io/badge/Windows-Microsoft-blue)](https://www.microsoft.com/windows)
+[![ROS](https://img.shields.io/badge/ROS-RobotOperatingSystem-brightgreen)](https://www.ros.org/)
+[![Debian](https://img.shields.io/badge/Debian-Stable-ffde00)](https://www.debian.org/)
+
 ### Design Tools
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF61A6?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/products/express.html)
