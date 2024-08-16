@@ -31,5 +31,11 @@
  Design Software: Canva, Adobe Express, Figma, Webflow
 
  Other Skills: 3d Modelling and Printing, Wordpress, Digital Marketing and SEO Optimisation, Prompt Engineering
- 
-##
+
+ Apart from Studies, I love sports and music
+
+ I sing and play the piano, cajon and harmonica
+
+ I love swimming,yoga and playing squash, badminton, chess, and carrom!
+
+Hoping to connect, contribute, collaborate, learn and enjoy!
