@@ -64,11 +64,14 @@ Hello! I'm **Shivani Bhat**, an enthusiastic and innovative engineering student 
 [![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-FF4B5C?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Digital_marketing)
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Prompt_engineering)
 
+Aspiring to be the best end-to-end electronic product developer 🔥🔥
+
 ## 🎨 Hobbies & Interests
 
 When I’m not immersed in technology, you can find me indulging in various hobbies:
 - **Sports**: Swimming, yoga, squash, badminton, chess, carrom
 - **Music**: Singing, playing the piano, cajon, and harmonica
+- Do check out my Youtube Channel: https://www.youtube.com/@Shivanayy
 
 ## 🤝 Let's Connect!
 
