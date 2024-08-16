@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+##
  I am Shivani Bhat, a creative and optimistic engineering student!
  I'm driven and passionate and I love to learn about new technologies!
  I believe that exposure to variety can help me to unlock and unleash my full potential! 🔥🔥
@@ -17,4 +17,4 @@
  Cloud: AWS, Firebase, Google Cloud Platform
  Design Software: Canva, Adobe Express, Figma, Webflow
  
--->
+##
