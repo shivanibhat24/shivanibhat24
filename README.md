@@ -2,6 +2,10 @@
 
 Hello! I'm **Shivani Bhat**, an enthusiastic and innovative engineering student with a strong drive to explore new technologies and solve problems. I believe in the power of diverse experiences to unlock and unleash my full potential. My aim is to excel in end-to-end product development and make meaningful contributions to society.
 
+I love to work on and solve real life problems.🌍🧩
+
+My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web development and Healthcare🌐🚁🤖💻❤️
+
 ## 🚀 Tech Stack
 
 ### Core Languages
