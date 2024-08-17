@@ -9,6 +9,7 @@ Hello! I'm **Shivani Bhat**, an enthusiastic and innovative engineering student 
 [![Micropython](https://img.shields.io/badge/Micropython-004B49?style=for-the-badge&logo=python&logoColor=white)](https://micropython.org/)
 [![Verilog](https://img.shields.io/badge/Verilog-1E4C9A?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
 [![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0073B1?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/SystemVerilog)
+[![VHDL](https://img.shields.io/badge/SystemVerilog-0073B1?style=for-the-badge&logo=github&logoColor=aqua)](https://en.wikipedia.org/wiki/VHDL)
 
 ### Programming Languages
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
