@@ -90,7 +90,7 @@ Aspiring to be the best end-to-end electronic product developer 🔥🔥
 ## 🎨 Hobbies & Interests
 
 When I’m not immersed in technology, you can find me indulging in various hobbies:
-- **Sports**: Swimming, yoga, squash, badminton, chess, carrom
+- **Sports**: Swimming, yoga, squash, badminton, chess, carrom, cricket and football
 - **Music**: Singing, playing the piano, cajon, and harmonica
 - Do check out my Youtube Channel: https://www.youtube.com/@Shivanayy
 
