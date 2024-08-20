@@ -88,6 +88,7 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 [![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-FF4B5C?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Digital_marketing)
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Prompt_engineering)
+[![Research and Presentations](https://img.shields.io/badge/Research%20and%20Presentations-FFCA28?style=for-the-badge&logo=github&logoColor=black)](https://www.google.com)
 
 Aspiring to be the best end-to-end electronic product developer 🔥🔥
 
