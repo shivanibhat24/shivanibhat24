@@ -90,7 +90,7 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![XGBoost](https://img.shields.io/badge/XGBoost-MachineLearning-yellowgreen)](https://xgboost.ai/)
 [![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-MachineLearning-blueviolet)](https://scikit-learn.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-InteractiveGraphing-royalblue)](https://plotly.com/)
-[![Plotly](https://img.shields.io/badge/Tensorflow-Artificial Intelligence-orange)](https://www.tensorflow.org/)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-Artificial Intelligence-orange)](https://www.tensorflow.org/)
 
 ### Operating Systems I have worked with
 [![Linux](https://img.shields.io/badge/Linux-OpenSource-black)](https://www.linux.org/)
