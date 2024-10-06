@@ -67,6 +67,7 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 ### Backend Development
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Django](https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
