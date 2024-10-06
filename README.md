@@ -42,15 +42,14 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![Firmware Development](https://img.shields.io/badge/Firmware%20Development-%2345A1FF.svg?logo=firmware)]()
 
 ## 📟 Microcontrollers I've Worked with
-
-[![STM32Fxxx](https://img.shields.io/badge/STM32Fxxx-Expert-blue)]()
-[![ARM LPC 214x](https://img.shields.io/badge/ARM%20LPC%20214x-Expert-blue)]()
-[![ESP 32](https://img.shields.io/badge/ESP%2032-Expert-blue)]()
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Expert-blue)]()
-[![PIC18F](https://img.shields.io/badge/PIC18F-Proficient-green)]()
-[![8051](https://img.shields.io/badge/8051-Proficient-green)]()
-[![Teensy 4.1](https://img.shields.io/badge/Teensy%204.1-Proficient-green)]()
-[![ATMega328p](https://img.shields.io/badge/ATMega328p-Proficient-green)]()
+[![STM32Fxxx](https://img.shields.io/badge/STM32-%230081CB.svg?logo=stmicroelectronics)]()
+[![ARM LPC 214x](https://img.shields.io/badge/ARM%20LPC%20214x-%2300A8E1.svg?logo=arm)]()
+[![ESP 32](https://img.shields.io/badge/ESP32-%23202020.svg?logo=espressif)]()
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?logo=raspberry-pi)]()
+[![PIC18F](https://img.shields.io/badge/PIC18F-%2323759B.svg?logo=microchip)]()
+[![8051](https://img.shields.io/badge/8051-%23FF4500.svg?logo=8051)]()
+[![Teensy 4.1](https://img.shields.io/badge/Teensy-%2300BFAE.svg?logo=arduino)]()
+[![ATMega328p](https://img.shields.io/badge/ATMega328p-%234CAF50.svg?logo=atmel)]()
 
 ## 🔧 Simulation Software
 
