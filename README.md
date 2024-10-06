@@ -38,7 +38,7 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![SOC Design](https://img.shields.io/badge/SOC%20Design-%23F05340.svg?logo=design)]()
 [![FPGA Programming](https://img.shields.io/badge/FPGA%20Programming-%23005F50.svg?logo=xilinx)]()
 [![PCB Design](https://img.shields.io/badge/PCB%20Design-%234CAF50.svg?logo=altium-designer)]()
-[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%23E04F5F.svg?logo=signal)]()
+[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%23E04F5F.svg)]()
 [![Firmware Development](https://img.shields.io/badge/Firmware%20Development-%2345A1FF.svg?logo=firmware)]()
 
 ## 📟 Microcontrollers I've Worked with
