@@ -91,7 +91,6 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-0072B7?style=for-the-badge&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 ### Operating Systems I have worked with
 [![Linux](https://img.shields.io/badge/Linux-OpenSource-black)](https://www.linux.org/)
