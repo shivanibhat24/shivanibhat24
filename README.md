@@ -94,10 +94,11 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![LightGBM](https://img.shields.io/badge/LightGBM-0072B7?style=for-the-badge&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
 
 ### Operating Systems I have worked with
-[![Linux](https://img.shields.io/badge/Linux-OpenSource-black)](https://www.linux.org/)
-[![Windows](https://img.shields.io/badge/Windows-Microsoft-blue)](https://www.microsoft.com/windows)
-[![ROS](https://img.shields.io/badge/ROS-RobotOperatingSystem-brightgreen)](https://www.ros.org/)
-[![Debian](https://img.shields.io/badge/Debian-Stable-ffde00)](https://www.debian.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Debian](https://img.shields.io/badge/Debian-A81D24?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-CC342D?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/software/)
 
 ### Design Tools
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
