@@ -30,14 +30,16 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### Core Skills
-[![Embedded System Design](https://img.shields.io/badge/Embedded%20System%20Design-000000?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_system)
-[![Firmware Development](https://img.shields.io/badge/Firmware%20Development-000000?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Firmware)
-[![PCB Design](https://img.shields.io/badge/PCB%20Design-0099FF?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Printed_circuit_board)
-[![FPGA Design](https://img.shields.io/badge/FPGA%20Design-004B49?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
-[![SOC and ASIC Design](https://img.shields.io/badge/SOC%20and%20ASIC%20Design-000000?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/System_on_a_chip)
-[![Soldering](https://img.shields.io/badge/Soldering-0074D9?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Soldering)
-[![Analog and Digital Circuit Design](https://img.shields.io/badge/Analog%20and%20Digital%20Circuit%20Design-000000?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Electronic_circuit)
-[![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-009B77?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Computer_architecture)
+[![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-%2300599C.svg?logo=embed)]()
+[![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-%23FF6F00.svg?logo=architecture)]()
+[![Soldering](https://img.shields.io/badge/Soldering-%23F7DF1E.svg?logo=soldering)]()
+[![Analog Circuit Design](https://img.shields.io/badge/Analog%20Circuit%20Design-%234A8CC4.svg?logo=analog-devices)]()
+[![Digital Circuit Design](https://img.shields.io/badge/Digital%20Circuit%20Design-%23FF69B4.svg?logo=circuit-diagram)]()
+[![SOC Design](https://img.shields.io/badge/SOC%20Design-%23F05340.svg?logo=design)]()
+[![FPGA Programming](https://img.shields.io/badge/FPGA%20Programming-%23005F50.svg?logo=xilinx)]()
+[![PCB Design](https://img.shields.io/badge/PCB%20Design-%234CAF50.svg?logo=altium-designer)]()
+[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%23E04F5F.svg?logo=signal)]()
+[![Firmware Development](https://img.shields.io/badge/Firmware%20Development-%2345A1FF.svg?logo=firmware)]()
 
 ## 📟 Microcontrollers I've Worked with
 
