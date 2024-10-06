@@ -39,6 +39,17 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![Analog and Digital Circuit Design](https://img.shields.io/badge/Analog%20and%20Digital%20Circuit%20Design-000000?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Electronic_circuit)
 [![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-009B77?style=for-the-badge&logo=github&logoColor=white)](https://en.wikipedia.org/wiki/Computer_architecture)
 
+## 📟 Microcontrollers I've Worked with
+
+[![STM32Fxxx](https://img.shields.io/badge/STM32Fxxx-Expert-blue)]()
+[![ARM LPC 214x](https://img.shields.io/badge/ARM%20LPC%20214x-Expert-blue)]()
+[![ESP 32](https://img.shields.io/badge/ESP%2032-Expert-blue)]()
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Expert-blue)]()
+[![PIC18F](https://img.shields.io/badge/PIC18F-Proficient-green)]()
+[![8051](https://img.shields.io/badge/8051-Proficient-green)]()
+[![Teensy 4.1](https://img.shields.io/badge/Teensy%204.1-Proficient-green)]()
+[![ATMega328p](https://img.shields.io/badge/ATMega328p-Proficient-green)]()
+
 ### Frontend Development
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
