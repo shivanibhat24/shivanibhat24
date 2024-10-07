@@ -44,7 +44,7 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 ## 📟 Microcontrollers I've Worked with
 [![STM32Fxxx](https://img.shields.io/badge/STM32-%230081CB.svg?logo=stmicroelectronics)]()
 [![ARM LPC 214x](https://img.shields.io/badge/ARM%20LPC%20214x-%2300A8E1.svg?logo=arm)]()
-[![ESP 32](https://img.shields.io/badge/ESP32-%23202020.svg?logo=espressif)]()
+[![ESP 32](https://img.shields.io/badge/ESP32-%23202014.svg?logo=espressif)]()
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?logo=raspberry-pi)]()
 [![PIC18F](https://img.shields.io/badge/PIC18F-%2323759B.svg?logo=microchip)]()
 [![8051](https://img.shields.io/badge/8051-%23FF4500.svg?logo=8051)]()
