@@ -56,6 +56,7 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![Proteus](https://img.shields.io/badge/Proteus-%230056A3.svg?logo=proteus)]()
 [![MATLAB](https://img.shields.io/badge/MATLAB-%23E34F26.svg?logo=mathworks)]()
 [![LtSpice](https://img.shields.io/badge/LtSpice-%230075B7.svg?logo=ltspice)]()
+[![Scilab](https://img.shields.io/badge/Scilab-%2300BFAE.svg?logo=mathworks)]()
 
 ### Frontend Development
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
