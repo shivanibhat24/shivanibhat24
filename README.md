@@ -52,7 +52,6 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![ATMega328p](https://img.shields.io/badge/ATMega328p-%234CAF50.svg?logo=atmel)]()
 
 ## 🔧 Simulation Software
-
 [![Proteus](https://img.shields.io/badge/Proteus-%230056A3.svg?logo=proteus)]()
 [![MATLAB](https://img.shields.io/badge/MATLAB-%23E34F26.svg?logo=mathworks)]()
 [![LtSpice](https://img.shields.io/badge/LtSpice-%230075B7.svg?logo=ltspice)]()
@@ -95,7 +94,6 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![LightGBM](https://img.shields.io/badge/LightGBM-0072B7?style=for-the-badge&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
 
 ## GIS Software Experience
-
 [![Google Earth Pro](https://img.shields.io/badge/Google%20Earth%20Pro-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)](https://earth.google.com/web/)
 [![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://www.openstreetmap.org/)
 [![SUMO](https://img.shields.io/badge/SUMO-598564?style=for-the-badge&logo=sumo&logoColor=white)](https://www.eclipse.org/sumo/)
