@@ -96,9 +96,9 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 
 ## GIS Software Experience
 
-[![Google Earth](https://img.shields.io/badge/Google%20Earth-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)](https://earth.google.com/web/)
+[![Google Earth Pro](https://img.shields.io/badge/Google%20Earth%20Pro-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)](https://earth.google.com/web/)
 [![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://www.openstreetmap.org/)
-[![SUMO](https://img.shields.io/badge/SUMO-FF5722?style=for-the-badge&logo=sumo&logoColor=white)](https://www.eclipse.org/sumo/)
+[![SUMO](https://img.shields.io/badge/SUMO-589641?style=for-the-badge&logo=sumo&logoColor=white)](https://www.eclipse.org/sumo/)
 [![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/)
 
 ### Operating Systems I have worked with
