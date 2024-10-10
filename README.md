@@ -94,6 +94,13 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-0072B7?style=for-the-badge&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
 
+## GIS Software Experience
+
+[![Google Earth](https://img.shields.io/badge/Google%20Earth-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)](https://earth.google.com/web/)
+[![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://www.openstreetmap.org/)
+[![SUMO](https://img.shields.io/badge/SUMO-FF5722?style=for-the-badge&logo=sumo&logoColor=white)](https://www.eclipse.org/sumo/)
+[![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/)
+
 ### Operating Systems I have worked with
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
