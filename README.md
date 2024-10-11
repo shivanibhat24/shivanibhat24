@@ -106,6 +106,15 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![Debian](https://img.shields.io/badge/Debian-A81D24?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-CC342D?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/software/)
 
+### Generative AI Tools I have experience with:
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-4285F4?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
+[![Claude](https://img.shields.io/badge/Claude-4285F4?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google/)
+[![Midjourney](https://img.shields.io/badge/Midjourney-FF4500?style=for-the-badge&logo=midjourney&logoColor=white)](https://www.midjourney.com/)
+[![Leonardo.ai](https://img.shields.io/badge/Leonardo.ai-1E90FF?style=for-the-badge&logo=ai&logoColor=white)](https://leonardo.ai/)
+[![Tome](https://img.shields.io/badge/Tome-A020F0?style=for-the-badge&logo=tome&logoColor=white)](https://tome.app/)
+[![Photoshop AI](https://img.shields.io/badge/Photoshop%20AI-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)  
+
 ### Design Tools
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF61A6?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/products/express.html)
