@@ -6,7 +6,7 @@ Exploring Variety to Unlock and Unleash my full Potential!🔥🔥
 
 I love to work on and solve real life problems.🌍🧩
 
-My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web development and Healthcare🌐🚁🤖💻❤️
+My interests are IoT, Defence, Space, Drones, Robotics, AI, Competitive Coding, Web Development and Healthcare🌐🚁🤖💻❤️
 
 ## 🚀 Tech Stack
 
