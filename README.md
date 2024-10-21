@@ -22,6 +22,8 @@ My interests are IoT,defence,space,drones, robotics, AI, competitive coding, web
 [![C++](https://img.shields.io/badge/C%2B%2B-6b5b95?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ### Scripting Languages
 [![TCL](https://img.shields.io/badge/TCL-003B57?style=for-the-badge&logo=tcl&logoColor=white)](https://en.wikipedia.org/wiki/Tcl)
