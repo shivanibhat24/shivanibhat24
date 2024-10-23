@@ -133,6 +133,12 @@ My interests are IoT, Defence, Space, Drones, Robotics, AI, Competitive Coding, 
 
 Aspiring to be the best end-to-end electronic product developer 🔥🔥
 
+# Most Used Languages
+
+Here are the most commonly used languages in my repositories:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibhat24&layout=compact)
+
 ## 🎨 Hobbies & Interests
 
 When I’m not immersed in technology, you can find me indulging in various hobbies:
