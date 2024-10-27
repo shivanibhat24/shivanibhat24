@@ -4,7 +4,7 @@ Hello! I'm **Shivani Bhat**, an enthusiastic and creative engineering student wi
 
 Exploring Variety to Unlock and Unleash my full Potential!🔥🔥 
 
-I love to work on and solve real life problems.🌍🧩
+I love to work on and solve real life problems. I believe that technology, if learnt well and used well can make the world the best place🌍🧩
 
 My interests are IoT, Embedded Systems, Machine Learning, Defence, Space, Drones, Robotics, AI, Competitive Coding, Web Development and Healthcare🌐🚁🤖💻❤️
 
