@@ -94,6 +94,8 @@ My interests are IoT, Embedded Systems, Machine Learning, Defence, Space, Drones
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-0072B7?style=for-the-badge&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
+[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/)
 
 ## GIS Software Experience
 [![Google Earth Pro](https://img.shields.io/badge/Google%20Earth%20Pro-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)](https://earth.google.com/web/)
