@@ -1,6 +1,6 @@
 # A Warm Welcome to my Profile 👋
 
-Hello! I'm **Shivani Bhat**, an enthusiastic and creative engineering student with a strong drive to explore new technologies and solve problems. My aim is to excel in end-to-end product development and make meaningful contributions to society.
+Hello! I'm **Shivani Bhat**, an enthusiastic and creative engineering student with a strong drive to explore new technologies and solve problems. My aim is to excel in end-to-end product development and make meaningful contributions to society. I am currently based in Mumbai, India.
 
 Exploring Variety to Unlock and Unleash my full Potential!🔥🔥 
 
