@@ -153,6 +153,8 @@ When I’m not immersed in technology, you can find me indulging in various hobb
 - **Sports**: Swimming, yoga, squash, badminton, chess, carrom, running, cricket and football
 - **Music**: Singing, playing the piano, cajon, and harmonica
 - Do check out my Youtube Channel: https://www.youtube.com/@Shivanayy
+<img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" width="200">
+<br><br>
 
 ## 🤝 Let's Connect!
 
