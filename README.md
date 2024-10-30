@@ -161,4 +161,4 @@ When I’m not immersed in technology, you can find me indulging in various hobb
 
 I’m always open to connecting, contributing, collaborating, learning, and enjoying new experiences. If you share similar interests or if there's a project you'd like to discuss, feel free to reach out!
 
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">https://www.linkedin.com/in/shivani-bhat-671a70271/
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"> width="100">https://www.linkedin.com/in/shivani-bhat-671a70271/
