@@ -4,7 +4,7 @@ Hello! I'm **Shivani Bhat**, an enthusiastic and creative engineering student wi
 
 Exploring Variety to Unlock and Unleash my full Potential!🔥🔥 
 
-I love to work on and solve real life problems. I believe that technology, if learnt well and used well can make the world the best place🌍🧩
+I love to work on and solve real life problems. I believe that technology, if learnt and used well can make the world the best place🌍
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
 <br><br>
 
