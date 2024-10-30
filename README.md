@@ -1,4 +1,4 @@
-# A Warm Welcome to my Profile 👋
+# A Warm Welcome to my Profile <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="300">
 
 Hello! I'm **Shivani Bhat**, an enthusiastic and creative engineering student with a strong drive to explore new technologies and solve problems. My aim is to excel in end-to-end product development and make meaningful contributions to society. I am currently based in Mumbai, India.
 
