@@ -8,7 +8,7 @@ I love to work on and solve real life problems. I believe that technology, if le
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
 <br><br>
 
-My interests are IoT, Embedded Systems, Machine Learning, Defence, Space, Drones, Robotics, AI, Competitive Coding, Web Development and Healthcare🌐🚁🤖💻❤️
+My interests are Embedded Systems, Chip Design, Machine Learning, Defence, Space, Drones, Robotics, AI, Competitive Coding, Web Development and Healthcare🌐🚁🤖💻❤️
 
 All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>
 
