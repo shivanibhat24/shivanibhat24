@@ -173,7 +173,6 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 
 ### Contribution
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanibhat&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanibhat&theme=radical" alt="GitHub Streak" />
 </div>
 <div align="center">
