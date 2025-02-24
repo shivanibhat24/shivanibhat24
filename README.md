@@ -171,9 +171,12 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Photography](https://img.shields.io/badge/Photography-26C6DA?style=for-the-badge)]()
 [![Technical Blogging](https://img.shields.io/badge/Technical%20Blogging-FF5722?style=for-the-badge)]()
 
-### Contribution
+### Contributions
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanibhat&theme=radical" alt="GitHub Streak" />
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibhat24"/>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibhat&layout=compact&theme=radical" alt="Top Languages" />
