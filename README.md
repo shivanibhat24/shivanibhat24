@@ -134,8 +134,6 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Webflow](https://img.shields.io/badge/Webflow-00C2A0?style=for-the-badge&logo=webflow&logoColor=white)](https://webflow.com/)
 
-[Previous sections remain exactly the same up to Core Skills]
-
 ### Additional Technical Skills
 [![3D Modeling](https://img.shields.io/badge/3D%20Modeling-FF6B6B?style=for-the-badge&logo=blender&logoColor=white)]()
 [![Circuit Design](https://img.shields.io/badge/Circuit%20Design-00979D?style=for-the-badge&logo=circuitverse&logoColor=white)]()
@@ -198,9 +196,6 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Non Fiction](https://img.shields.io/badge/Non%20Fiction-4682B4?style=for-the-badge)]()
 [![Long Series](https://img.shields.io/badge/Long%20Series-9370DB?style=for-the-badge)]()
 
-#### Games & Puzzles
-[![Board Games](https://img.shields.io/badge/Board%20Games-7B68EE?style=for-the-badge)]()
-[![Jigsaw Puzzles](https://img.shields.io/badge/Jigsaw%20Puzzles-FFA500?style=for-the-badge)]()
 
 ## 🤝 Let's Connect!
 
