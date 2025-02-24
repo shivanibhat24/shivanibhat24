@@ -155,15 +155,6 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)]()
 
-### Professional Skills
-[![Project Management](https://img.shields.io/badge/Project%20Management-FF7F50?style=for-the-badge)]()
-[![Team Leadership](https://img.shields.io/badge/Team%20Leadership-6F2DA8?style=for-the-badge)]()
-[![Research](https://img.shields.io/badge/Research-00C7B7?style=for-the-badge)]()
-[![Public Speaking](https://img.shields.io/badge/Public%20Speaking-FF4088?style=for-the-badge)]()
-[![Documentation](https://img.shields.io/badge/Documentation-0078D4?style=for-the-badge)]()
-[![Mentoring](https://img.shields.io/badge/Mentoring-00B4D8?style=for-the-badge)]()
-[![Problem Analysis](https://img.shields.io/badge/Problem%20Analysis-FF6B6B?style=for-the-badge)]()
-
 ### Creative Skills
 [![Content Creation](https://img.shields.io/badge/Content%20Creation-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Video Editing](https://img.shields.io/badge/Video%20Editing-9999FF?style=for-the-badge)]()
@@ -173,8 +164,8 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 
 ### Contributions
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanibhat24&theme=holi" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibhat24&theme=holi" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanibhat24&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibhat24&theme=algolia" alt="Top Languages"/>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
