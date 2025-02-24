@@ -12,8 +12,6 @@ My interests are Embedded Systems, Chip Design, Machine Learning, Defence, Space
 
 All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>
 
-https://camo.githubusercontent.com/a60f2d4ac7b65dfa65bb04d69e0dff27312a2ebc397c2de4bb1e541d8117eb61/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d706172616d676f676961267468656d653d6461726b26686964655f626f726465723d66616c7365
-
 ## 🚀 Tech Stack
 
 ### Core Languages
