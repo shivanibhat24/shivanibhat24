@@ -20,6 +20,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Verilog](https://img.shields.io/badge/Verilog-1E4C9A?style=for-the-badge&logo=verilog&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
 [![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0073B1?style=for-the-badge&logo=systemverilog&logoColor=white)](https://en.wikipedia.org/wiki/SystemVerilog)
 [![VHDL](https://img.shields.io/badge/VHDL-008000?style=for-the-badge&logo=vhdl&logoColor=black)](https://en.wikipedia.org/wiki/VHDL)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
 ### 💻 Programming Languages
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -49,7 +50,6 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![PCB Design](https://img.shields.io/badge/PCB%20Design-%234CAF50.svg?style=for-the-badge&logo=altium-designer&logoColor=white)]()
 [![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%23E04F5F.svg?style=for-the-badge&logo=signal&logoColor=white)]()
 [![Firmware Development](https://img.shields.io/badge/Firmware%20Development-%2345A1FF.svg?style=for-the-badge&logo=firmware&logoColor=white)]()
-[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 [![Computer Networking](https://img.shields.io/badge/Computer%20Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
 
 ## 📟 Microcontrollers I've Worked with
