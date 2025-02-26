@@ -31,13 +31,13 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 
 ### 📜 Scripting Languages
 [![TCL](https://img.shields.io/badge/TCL-003B57?style=for-the-badge&logo=tcl&logoColor=white)](https://en.wikipedia.org/wiki/Tcl)
 [![Tk](https://img.shields.io/badge/Tk-0069A5?style=for-the-badge&logo=tcl&logoColor=white)](https://en.wikipedia.org/wiki/Tk_(software))
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Windows PowerShell Scripting](https://img.shields.io/badge/Windows%20PowerShell%20Scripting-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 
 ### 🛠️ Core Skills
 [![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-%2300599C.svg?style=for-the-badge&logo=chip&logoColor=white)]()
