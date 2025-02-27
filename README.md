@@ -198,7 +198,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Military Fiction](https://img.shields.io/badge/Military%20Fiction-8B4513?style=for-the-badge&logo=book&logoColor=white)]()
 [![Thrillers](https://img.shields.io/badge/Thrillers-DC143C?style=for-the-badge&logo=goodreads&logoColor=white)]()
 [![Non Fiction](https://img.shields.io/badge/Non%20Fiction-4682B4?style=for-the-badge&logo=bookstack&logoColor=white)]()
-[![Long Series](https://img.shields.io/badge/Long%20Series-9370DB?style=for-the-badge&logo=books&logoColor=white)]()
+[![Fiction Series](https://img.shields.io/badge/Fiction%20Series-9370DB?style=for-the-badge&logo=books&logoColor=white)]()
 
 ## 🤝 Let's Connect!
 
