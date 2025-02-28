@@ -136,6 +136,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Leonardo.ai](https://img.shields.io/badge/Leonardo.ai-1E90FF?style=for-the-badge&logo=leonardo&logoColor=white)](https://leonardo.ai/)
 [![Tome](https://img.shields.io/badge/Tome-A020F0?style=for-the-badge&logo=tome&logoColor=white)](https://tome.app/)
 [![Photoshop AI](https://img.shields.io/badge/Photoshop%20AI-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)  
+[![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.ai/grok)
 
 ### 🎨 Design Tools
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
