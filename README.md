@@ -146,7 +146,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 
 ## 📊 Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibhat24&layout=compact&color=teal)](https://github.com/shivanibhat24)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibhat24&layout=compact&theme=tokyonight)](https://github.com/shivanibhat24)
 
 ### 🔧 Additional Technical Skills
 [![3D Modeling](https://img.shields.io/badge/3D%20Modeling-FF6B6B?style=for-the-badge&logo=blender&logoColor=white)]()
