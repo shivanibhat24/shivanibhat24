@@ -159,8 +159,6 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Code Review](https://img.shields.io/badge/Code%20Review-FF4F64?style=for-the-badge&logo=github&logoColor=white)]()
 [![Testing](https://img.shields.io/badge/Testing-14CC80?style=for-the-badge&logo=testinglibrary&logoColor=white)]()
 [![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
 ### 💻 Operating Systems
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
