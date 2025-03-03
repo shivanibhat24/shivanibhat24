@@ -48,7 +48,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![SOC Design](https://img.shields.io/badge/SOC%20Design-%23F05340.svg?style=for-the-badge&logo=soc&logoColor=white)]()
 [![FPGA Programming](https://img.shields.io/badge/FPGA%20Programming-%23005F50.svg?style=for-the-badge&logo=xilinx&logoColor=white)]()
 [![PCB Design](https://img.shields.io/badge/PCB%20Design-%234CAF50.svg?style=for-the-badge&logo=altium-designer&logoColor=white)]()
-[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%23E04F5F.svg?style=for-the-badge&logo=signal&logoColor=white)]()
+[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%23E04F5F.svg?style=for-the-badge)]()
 [![Firmware Development](https://img.shields.io/badge/Firmware%20Development-%2345A1FF.svg?style=for-the-badge&logo=firmware&logoColor=white)]()
 [![Computer Networking](https://img.shields.io/badge/Computer%20Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
 
