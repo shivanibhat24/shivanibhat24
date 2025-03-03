@@ -192,7 +192,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Cajon](https://img.shields.io/badge/Cajon-CD7F32?style=for-the-badge&logo=music&logoColor=white)]()
 [![Harmonica](https://img.shields.io/badge/Harmonica-1E90FF?style=for-the-badge&logo=harmonica&logoColor=white)]()
 [![Singing](https://img.shields.io/badge/Singing-FF69B4?style=for-the-badge&logo=spotify&logoColor=white)]()
-[![Hang Drum](https://img.shields.io/badge/Hang%20Drum-76B900?style=for-the-badge&logoColor=white)]
+[![Hang Drum](https://img.shields.io/badge/Hang%20Drum-76B900?style=for-the-badge&logoColor=white)]()
 
 #### 📚 Reading Interests
 [![Military Fiction](https://img.shields.io/badge/Military%20Fiction-8B4513?style=for-the-badge&logo=book&logoColor=white)]()
