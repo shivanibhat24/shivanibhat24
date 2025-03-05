@@ -160,13 +160,6 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Testing](https://img.shields.io/badge/Testing-14CC80?style=for-the-badge&logo=testinglibrary&logoColor=white)]()
 [![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 
-### 💻 Operating Systems
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)]()
-
 ### 🎭 Creative Skills
 [![Content Creation](https://img.shields.io/badge/Content%20Creation-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Video Editing](https://img.shields.io/badge/Video%20Editing-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)]()
