@@ -148,6 +148,9 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibhat24&layout=compact&theme=midnight-purple)](https://github.com/shivanibhat24)
 
+## Leetode Badges
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=user1507hT)
+
 ### 🔧 Additional Technical Skills
 [![3D Modeling](https://img.shields.io/badge/3D%20Modeling-FF6B6B?style=for-the-badge&logo=blender&logoColor=white)]()
 [![Circuit Design](https://img.shields.io/badge/Circuit%20Design-00979D?style=for-the-badge&logo=circuitverse&logoColor=white)]()
