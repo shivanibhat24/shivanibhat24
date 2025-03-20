@@ -203,5 +203,4 @@ I'm always open to connecting, contributing, collaborating, learning, and enjoyi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-bhat-671a70271/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanibhat24)
-[![Bits and Boards: My Blog](https://img.shields.io/badge/Blog-Bits%20and%20Boards-blue?style=for-the-badge&logo=read-the-docs)]([https://your-blog-link.com](https://medium.com/@shivani.bhat.201571))
-
+[![Bits and Boards: My Blog](https://img.shields.io/badge/Blog-Bits%20and%20Boards-blue?style=for-the-badge&logo=read-the-docs)]([https://medium.com/@shivani.bhat.201571]
