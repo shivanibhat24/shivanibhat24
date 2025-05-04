@@ -173,7 +173,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 
 ### 🗓️ My GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shivanibhat24&theme=default)](https://git.io/streak-stats)
 
 ### 🌟 Interests & Hobbies
 
