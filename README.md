@@ -173,7 +173,8 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shivanibhat24&theme=tokyonight)](https://git.io/streak-stats)
 
-![GitHub Heatmap](https://github-contributions.vercel.app/api?username=shivanibhat24&color=40c463)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivanibhat24E&theme=github)
+
 
 
 ## Leetcode Badges
