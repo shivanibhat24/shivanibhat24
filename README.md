@@ -171,6 +171,10 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Photography](https://img.shields.io/badge/Photography-26C6DA?style=for-the-badge&logo=camera&logoColor=white)]()
 [![Technical Blogging](https://img.shields.io/badge/Technical%20Blogging-FF5722?style=for-the-badge&logo=medium&logoColor=white)]()
 
+### 🗓️ My GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default)](https://git.io/streak-stats)
+
 ### 🌟 Interests & Hobbies
 
 #### 🏊‍♀️ Sports & Fitness
