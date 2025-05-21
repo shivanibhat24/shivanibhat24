@@ -16,7 +16,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 ## 🚀 Tech Stack
 
 ### 🔌 Core Languages
-[![Embedded C](https://img.shields.io/badge/Embedded%20C-000000?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Embedded C](https://img.shields.io/badge/C%20for%20Embedded%20Systems-000000?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Micropython](https://img.shields.io/badge/Micropython-004B49?style=for-the-badge&logo=python&logoColor=white)](https://micropython.org/)
 [![Verilog](https://img.shields.io/badge/Verilog-1E4C9A?style=for-the-badge&logo=verilog&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
 [![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0073B1?style=for-the-badge&logo=systemverilog&logoColor=white)](https://en.wikipedia.org/wiki/SystemVerilog)
