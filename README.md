@@ -2,7 +2,7 @@
 
 Hello! I'm **Shivani Bhat**, an enthusiastic and creative engineering student with a strong drive to explore new technologies and solve problems. My aim is to excel in end-to-end product development and make meaningful contributions to society. I am currently based in Mumbai, India.
 
-Exploring Variety to Unlock and Unleash my full Potential! 🔥🔥 
+Exploring Variety to Unlock and Unleash my full Potential! 🔥
 
 I love to work on and solve real life problems. I believe that technology, if learnt and used well can make the world the best place 🌍
 
@@ -204,7 +204,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 
 ## 🤝 Let's Connect!
 
-I'm always open to connecting, contributing, collaborating, learning, and enjoying new experiences. If you share similar interests or if there's a project you'd like to discuss, feel free to reach out!
+I'm always open to connecting, contributing, collaborating, learning, and enjoying new experiences. If you share similar interests or if there's a project you'd really like to discuss, feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-bhat-671a70271/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanibhat24)
