@@ -53,15 +53,20 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Firmware Development](https://img.shields.io/badge/Firmware%20Development-%2345A1FF.svg?style=for-the-badge&logo=firmware&logoColor=white)]()
 [![Computer Networking](https://img.shields.io/badge/Computer%20Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
 
-## 📟 Microcontrollers I've Worked with
+## 📟 Devices I've Worked with
 [![STM32Fxxx](https://img.shields.io/badge/STM32-%230081CB.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)]()
 [![ARM LPC 214x](https://img.shields.io/badge/ARM%20LPC%20214x-%2300A8E1.svg?style=for-the-badge&logo=arm&logoColor=white)]()
-[![ESP 32](https://img.shields.io/badge/ESP32-%23202014.svg?style=for-the-badge&logo=espressif&logoColor=white)]()
+[![ESP32-C3/S3/S2](https://img.shields.io/badge/ESP32--C3/S3/S2-%23202014.svg?style=for-the-badge&logo=espressif&logoColor=white)]()
+[![ESP8266](https://img.shields.io/badge/ESP8266-%231A1A1A.svg?style=for-the-badge&logo=espressif&logoColor=white)]()
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)]()
 [![PIC18F](https://img.shields.io/badge/PIC18F-%2323759B.svg?style=for-the-badge&logo=microchip&logoColor=white)]()
 [![8051](https://img.shields.io/badge/8051-%23FF4500.svg?style=for-the-badge&logo=intel&logoColor=white)]()
+[![8085](https://img.shields.io/badge/8085-%238B008B.svg?style=for-the-badge&logo=intel&logoColor=white)]()
 [![Teensy 4.1](https://img.shields.io/badge/Teensy-%2300BFAE.svg?style=for-the-badge&logo=arduino&logoColor=white)]()
 [![ATMega328p](https://img.shields.io/badge/ATMega328p-%234CAF50.svg?style=for-the-badge&logo=atmel&logoColor=white)]()
+[![Arduino](https://img.shields.io/badge/Arduino-%230097B9.svg?style=for-the-badge&logo=arduino&logoColor=white)]()
+[![Spartan 7 FPGA](https://img.shields.io/badge/Spartan%207%20FPGA-%23E3008C.svg?style=for-the-badge&logo=xilinx&logoColor=white)]()
+[![Altera Cyclone V FPGA](https://img.shields.io/badge/Altera%20Cyclone%20V%20FPGA-%23008080.svg?style=for-the-badge&logo=intel&logoColor=white)]()
 
 ## 🔧 Simulation Software
 [![Proteus](https://img.shields.io/badge/Proteus-%230056A3.svg?style=for-the-badge&logo=proteus&logoColor=white)]()
