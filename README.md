@@ -9,7 +9,7 @@ I love to work on and solve real life problems. I believe that technology, if le
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
 <br><br>
 
-My interests are Embedded Systems, Chip Design, Machine Learning, Defence, Space, Cybersecurity, Drones, Underwater Robots, Competitive Coding, Web Development and Healthcare 🌐🚁🤖💻❤️
+My interests are Embedded Systems, Chip Design, Machine Learning, Defence, Space, Cybersecurity, Drones, Underwater Robots, Competitive Coding and IoT🌐🚁🤖💻❤️
 
 All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>
 
@@ -174,10 +174,6 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Photography](https://img.shields.io/badge/Photography-26C6DA?style=for-the-badge&logo=camera&logoColor=white)]()
 [![Technical Blogging](https://img.shields.io/badge/Technical%20Blogging-FF5722?style=for-the-badge&logo=medium&logoColor=white)]()
 
-### 🗓️ My GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=shivanibhat24&theme=tokyonight)](https://git.io/streak-stats)
-
 ## Leetcode Badges
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=user1507hT)
 
@@ -190,6 +186,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Badminton](https://img.shields.io/badge/Badminton-28A745?style=for-the-badge&logo=badminton&logoColor=white)]()
 [![Chess](https://img.shields.io/badge/Chess-593E1A?style=for-the-badge&logo=lichess&logoColor=white)]()
 [![Carrom](https://img.shields.io/badge/Carrom-CD853F?style=for-the-badge&logo=carrom&logoColor=white)]()
+[![Running](https://img.shields.io/badge/Running-FF4D4D?style=for-the-badge&logo=go&logoColor=black)]()
 [![Running](https://img.shields.io/badge/Running-FF4D4D?style=for-the-badge&logo=strava&logoColor=white)]()
 [![Cricket](https://img.shields.io/badge/Cricket-00A550?style=for-the-badge&logo=cricket&logoColor=white)]()
 [![Football](https://img.shields.io/badge/Football-1E88E5?style=for-the-badge&logo=football&logoColor=white)]()
@@ -206,6 +203,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Thrillers](https://img.shields.io/badge/Thrillers-DC143C?style=for-the-badge&logo=goodreads&logoColor=white)]()
 [![Non Fiction](https://img.shields.io/badge/Non%20Fiction-4682B4?style=for-the-badge&logo=bookstack&logoColor=white)]()
 [![Fiction Series](https://img.shields.io/badge/Fiction%20Series-9370DB?style=for-the-badge&logo=books&logoColor=white)]()
+[![Manga](https://img.shields.io/badge/Thrillers-DC143C?style=for-the-badge&logo=goodreads&logoColor=pink)]()
 
 ## 🤝 Let's Connect!
 
