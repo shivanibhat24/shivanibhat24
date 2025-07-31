@@ -203,7 +203,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Thrillers](https://img.shields.io/badge/Thrillers-DC143C?style=for-the-badge&logo=goodreads&logoColor=white)]()
 [![Non Fiction](https://img.shields.io/badge/Non%20Fiction-4682B4?style=for-the-badge&logo=bookstack&logoColor=white)]()
 [![Fiction Series](https://img.shields.io/badge/Fiction%20Series-9370DB?style=for-the-badge&logo=books&logoColor=white)]()
-[![Manga](https://img.shields.io/badge/Thrillers-DC143C?style=for-the-badge&logo=goodreads&logoColor=pink)]()
+[![Manga](https://img.shields.io/badge/Manga-FF66CC?style=for-the-badge)]()
 
 ## 🤝 Let's Connect!
 
