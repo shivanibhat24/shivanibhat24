@@ -2,7 +2,7 @@
 
 Hello! I'm **Shivani Bhat**, an enthusiastic and creative engineering student with a strong drive to explore new technologies and solve problems. My aim is to excel in end-to-end product development and make meaningful contributions to society. I am currently based in Mumbai, India.
 
-View my project portfolio here: https://shivanibhat24.github.io/Project-Portfolio/root/index.html
+View my project portfolio here: https://shivanibhat24.github.io/Project-Portfolio/root/main/index.html
 
 View my graphic design portfolio here: https://shivanibhat24.github.io/Project-Portfolio/root/graphic_design/portfolio.html
 
