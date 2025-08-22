@@ -21,7 +21,7 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Embedded C](https://img.shields.io/badge/C%20for%20Embedded%20Systems-000000?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Micropython](https://img.shields.io/badge/Micropython-004B49?style=for-the-badge&logo=python&logoColor=white)](https://micropython.org/)
 [![Verilog](https://img.shields.io/badge/Verilog-1E4C9A?style=for-the-badge&logo=verilog&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
-[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0073B1?style=for-the-badge&logo=systemverilog&logoColor=white)](https://en.wikipedia.org/wiki/SystemVerilog)
+//[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0073B1?style=for-the-badge&logo=systemverilog&logoColor=white)](https://en.wikipedia.org/wiki/SystemVerilog)
 [![VHDL](https://img.shields.io/badge/VHDL-008000?style=for-the-badge&logo=vhdl&logoColor=black)](https://en.wikipedia.org/wiki/VHDL)
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 
@@ -35,12 +35,12 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
-### 📜 Scripting Languages
-[![TCL](https://img.shields.io/badge/TCL-003B57?style=for-the-badge&logo=tcl&logoColor=white)](https://en.wikipedia.org/wiki/Tcl)
-[![Tk](https://img.shields.io/badge/Tk-0069A5?style=for-the-badge&logo=tcl&logoColor=white)](https://en.wikipedia.org/wiki/Tk_(software))
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Windows PowerShell Scripting](https://img.shields.io/badge/Windows%20PowerShell%20Scripting-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+//### 📜 Scripting Languages
+//[![TCL](https://img.shields.io/badge/TCL-003B57?style=for-the-badge&logo=tcl&logoColor=white)](https://en.wikipedia.org/wiki/Tcl)
+//[![Tk](https://img.shields.io/badge/Tk-0069A5?style=for-the-badge&logo=tcl&logoColor=white)](https://en.wikipedia.org/wiki/Tk_(software))
+//[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+//[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+//[![Windows PowerShell Scripting](https://img.shields.io/badge/Windows%20PowerShell%20Scripting-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 
 ### 🛠️ Core Skills
 [![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-%2300599C.svg?style=for-the-badge&logo=chip&logoColor=white)]()
