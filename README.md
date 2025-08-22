@@ -1,5 +1,3 @@
-# <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
-
 Hello! I'm **Shivani Bhat**, an enthusiastic and creative engineering student with a strong drive to explore new technologies and solve problems. My aim is to excel in end-to-end product development and make meaningful contributions to society. I am currently based in Mumbai, India.
 
 View my project portfolio here: https://shivanibhat24.github.io/Project-Portfolio/root/main/index.html
