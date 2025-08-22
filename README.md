@@ -85,7 +85,6 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![System Design](https://img.shields.io/badge/System%20Design-326CE5?style=for-the-badge&logo=diagram&logoColor=white)]()
 [![Code Review](https://img.shields.io/badge/Code%20Review-FF4F64?style=for-the-badge&logo=github&logoColor=white)]()
 [![Testing](https://img.shields.io/badge/Testing-14CC80?style=for-the-badge&logo=testinglibrary&logoColor=white)]()
-[![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 
 ### 🎭 Creative Skills
 [![Content Creation](https://img.shields.io/badge/Content%20Creation-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
@@ -131,5 +130,3 @@ I'm always open to connecting, contributing, collaborating, learning, and enjoyi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-bhat-671a70271/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanibhat24)
-[![Bits and Boards: My Blog](https://img.shields.io/badge/Blog-Bits%20and%20Boards-blue?style=for-the-badge&logo=read-the-docs)](https://shivani-bitsandboards.medium.com/)
-
