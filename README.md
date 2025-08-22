@@ -39,7 +39,6 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Analog Circuit Design](https://img.shields.io/badge/Analog%20Circuit%20Design-%234A8CC4.svg?style=for-the-badge&logo=analog-devices&logoColor=white)]()
 [![Digital Circuit Design](https://img.shields.io/badge/Digital%20Circuit%20Design-%23FF69B4.svg?style=for-the-badge&logo=circuit&logoColor=white)]()
 [![FPGA Programming](https://img.shields.io/badge/FPGA%20Programming-%23005F50.svg?style=for-the-badge&logo=xilinx&logoColor=white)]()
-[![HLS Programming](https://img.shields.io/badge/HLS%20Programming-%23b2d8d8.svg?style=for-the-badge&logo=xilinx&logoColor=white)]()
 [![Firmware Development](https://img.shields.io/badge/Firmware%20Development-%2345A1FF.svg?style=for-the-badge&logo=firmware&logoColor=white)]()
 [![Computer Networking](https://img.shields.io/badge/Computer%20Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
 
@@ -83,46 +82,12 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 [![Problem Solving](https://img.shields.io/badge/Problem%20Solving-777BB4?style=for-the-badge&logo=leetcode&logoColor=white)]()
 [![Technical Writing](https://img.shields.io/badge/Technical%20Writing-7957D5?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![System Design](https://img.shields.io/badge/System%20Design-326CE5?style=for-the-badge&logo=diagram&logoColor=white)]()
-[![Code Review](https://img.shields.io/badge/Code%20Review-FF4F64?style=for-the-badge&logo=github&logoColor=white)]()
-[![Testing](https://img.shields.io/badge/Testing-14CC80?style=for-the-badge&logo=testinglibrary&logoColor=white)]()
 
 ### 🎭 Creative Skills
 [![Content Creation](https://img.shields.io/badge/Content%20Creation-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
-[![Video Editing](https://img.shields.io/badge/Video%20Editing-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)]()
-[![Digital Art](https://img.shields.io/badge/Digital%20Art-FF69B4?style=for-the-badge&logo=adobe-illustrator&logoColor=white)]()
 [![Photography](https://img.shields.io/badge/Photography-26C6DA?style=for-the-badge&logo=camera&logoColor=white)]()
 [![Technical Blogging](https://img.shields.io/badge/Technical%20Blogging-FF5722?style=for-the-badge&logo=medium&logoColor=white)]()
 
-## Leetcode Badges
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=user1507hT)
-
-### 🌟 Interests & Hobbies
-
-#### 🏊‍♀️ Sports & Fitness
-[![Swimming](https://img.shields.io/badge/Swimming-0099FF?style=for-the-badge&logo=swimming&logoColor=white)]()
-[![Yoga](https://img.shields.io/badge/Yoga-83B81A?style=for-the-badge&logo=yoga&logoColor=white)]()
-[![Squash](https://img.shields.io/badge/Squash-FF6B6B?style=for-the-badge&logo=squash&logoColor=white)]()
-[![Badminton](https://img.shields.io/badge/Badminton-28A745?style=for-the-badge&logo=badminton&logoColor=white)]()
-[![Chess](https://img.shields.io/badge/Chess-593E1A?style=for-the-badge&logo=lichess&logoColor=white)]()
-[![Carrom](https://img.shields.io/badge/Carrom-CD853F?style=for-the-badge&logo=carrom&logoColor=white)]()
-[![Running](https://img.shields.io/badge/Running-FF4D4D?style=for-the-badge&logo=go&logoColor=black)]()
-[![Running](https://img.shields.io/badge/Running-FF4D4D?style=for-the-badge&logo=strava&logoColor=white)]()
-[![Cricket](https://img.shields.io/badge/Cricket-00A550?style=for-the-badge&logo=cricket&logoColor=white)]()
-[![Football](https://img.shields.io/badge/Football-1E88E5?style=for-the-badge&logo=football&logoColor=white)]()
-
-#### 🎵 Music
-[![Piano](https://img.shields.io/badge/Piano-000000?style=for-the-badge&logo=piano&logoColor=white)]()
-[![Cajon](https://img.shields.io/badge/Cajon-CD7F32?style=for-the-badge&logo=music&logoColor=white)]()
-[![Harmonica](https://img.shields.io/badge/Harmonica-1E90FF?style=for-the-badge&logo=harmonica&logoColor=white)]()
-[![Singing](https://img.shields.io/badge/Singing-FF69B4?style=for-the-badge&logo=spotify&logoColor=white)]()
-[![Hang Drum](https://img.shields.io/badge/Hang%20Drum-76B900?style=for-the-badge&logoColor=white)]()
-
-#### 📚 Reading Interests
-[![Military Fiction](https://img.shields.io/badge/Military%20Fiction-8B4513?style=for-the-badge&logo=book&logoColor=white)]()
-[![Thrillers](https://img.shields.io/badge/Thrillers-DC143C?style=for-the-badge&logo=goodreads&logoColor=white)]()
-[![Non Fiction](https://img.shields.io/badge/Non%20Fiction-4682B4?style=for-the-badge&logo=bookstack&logoColor=white)]()
-[![Fiction Series](https://img.shields.io/badge/Fiction%20Series-9370DB?style=for-the-badge&logo=books&logoColor=white)]()
-[![Manga](https://img.shields.io/badge/Manga-FF66CC?style=for-the-badge)]()
 
 ## 🤝 Let's Connect!
 
