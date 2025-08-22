@@ -24,11 +24,8 @@ All my projects are  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"
 ### 💻 Programming Languages
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-6b5b95?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
-[![Typescript](https://img.shields.io/badge/Typescript-003B57?style=for-the-badge&logo=tcl&logoColor=white)](https://www.typescriptlang.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 
 ### 🛠️ Core Skills
 [![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-%2300599C.svg?style=for-the-badge&logo=chip&logoColor=white)]()
