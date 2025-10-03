@@ -234,7 +234,6 @@ All my projects are <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
 [![Database Design](https://img.shields.io/badge/Database%20Design-003B57?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Linux Administration](https://img.shields.io/badge/Linux%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Networking Fundamentals](https://img.shields.io/badge/Networking%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)]()
-[![Cybersecurity Basics](https://img.shields.io/badge/Cybersecurity%20Basics-4B275F?style=for-the-badge&logo=security&logoColor=white)]()
 
 ### 🎭 Creative Skills
 [![Content Creation](https://img.shields.io/badge/Content%20Creation-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
