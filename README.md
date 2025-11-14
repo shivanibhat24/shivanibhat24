@@ -318,6 +318,6 @@ I'm always open to connecting, contributing, collaborating, learning, and enjoyi
 
 <div align="center">
   
-### 💡 "Exploring variety to unlock and unleash my full potential!"
+###  You know what that is ? Simply lovely.
   
 </div>
