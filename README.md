@@ -315,9 +315,3 @@ I'm always open to connecting, contributing, collaborating, learning, and enjoyi
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shivanibhat24&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </div>
-
-<div align="center">
-  
-###  You know what that is ? Simply lovely.
-  
-</div>
