@@ -259,7 +259,7 @@ All my projects are <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
 [![MPLAB](https://img.shields.io/badge/MPLAB-DD0031?style=for-the-badge&logo=microchip&logoColor=white)]()
 
 ## Leetcode Badges
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=user1507hT)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=user1507T)
 
 ### 🌟 Interests & Hobbies
 
