@@ -203,8 +203,8 @@ All my projects are <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
 
 ## 📊 Most Used Languages
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivanibhat24&theme=github_dark)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivanibhat24&theme=github_dark)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivanibhat24&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivanibhat24&theme=tokyonight)
 
 ### 🔧 Additional Technical Skills
 
