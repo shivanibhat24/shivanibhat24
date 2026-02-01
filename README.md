@@ -203,7 +203,7 @@ All my projects are <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
 
 ## 📊 Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibhat24&layout=compact&theme=midnight-purple)](https://github.com/shivanibhat24)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivanibhat24&theme=github_dark)
 
 ### 🔧 Additional Technical Skills
 
