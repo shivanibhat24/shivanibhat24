@@ -36,6 +36,8 @@ All my projects are <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+![GameMaker Language](https://img.shields.io/badge/GameMaker_Language-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 ### 📜 Scripting Languages
 [![TCL](https://img.shields.io/badge/TCL-003B57?style=for-the-badge&logo=tcl&logoColor=white)](https://en.wikipedia.org/wiki/Tcl)
@@ -44,6 +46,7 @@ All my projects are <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Windows PowerShell Scripting](https://img.shields.io/badge/Windows%20PowerShell%20Scripting-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### 🛠️ Core Skills
 [![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-%2300599C.svg?style=for-the-badge&logo=chip&logoColor=white)]()
@@ -93,6 +96,7 @@ All my projects are <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
 [![Altera Cyclone IV FPGA](https://img.shields.io/badge/Altera%20Cyclone%20IV%20FPGA-%23006699.svg?style=for-the-badge&logo=intel&logoColor=white)]()
 [![Microblaze](https://img.shields.io/badge/Microblaze-%23E57200.svg?style=for-the-badge&logo=xilinx&logoColor=white)]()
 [![NIOS II](https://img.shields.io/badge/NIOS%20II-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white)]()
+![Vicharak Shrike Lite FPGA](https://img.shields.io/badge/Vicharak_Shrike_Lite_FPGA-FF6F00?style=for-the-badge&logo=verilog&logoColor=white)
 
 ## 🔧 EDA & Simulation Software
 [![Proteus](https://img.shields.io/badge/Proteus-%230056A3.svg?style=for-the-badge&logo=proteus&logoColor=white)]()
@@ -165,6 +169,7 @@ All my projects are <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 [![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+![librosa](https://img.shields.io/badge/librosa-Audio_ML-1f425f?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗺️ GIS Software Experience
 [![Google Earth Pro](https://img.shields.io/badge/Google%20Earth%20Pro-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)](https://earth.google.com/web/)
@@ -179,6 +184,7 @@ All my projects are <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
 [![Debian](https://img.shields.io/badge/Debian-A81D24?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-CC342D?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/software/)
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=freertos&logoColor=white)](https://www.freertos.org/)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### 🤖 Generative AI Tools I have experience with
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
