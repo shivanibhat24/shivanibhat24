@@ -278,6 +278,7 @@ All my projects are <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
 [![Harmonica](https://img.shields.io/badge/Harmonica-1E90FF?style=for-the-badge&logo=harmonica&logoColor=white)]()
 [![Singing](https://img.shields.io/badge/Singing-FF69B4?style=for-the-badge&logo=spotify&logoColor=white)]()
 [![Hang Drum](https://img.shields.io/badge/Hang%20Drum-76B900?style=for-the-badge&logoColor=white)]()
+![Kazoo](https://img.shields.io/badge/Kazoo-FF69B4?style=for-the-badge&logo=music&logoColor=white)
 [![Music Production](https://img.shields.io/badge/Music%20Production-FF0080?style=for-the-badge&logo=ableton-live&logoColor=white)]()
 
 #### 📚 Reading Interests
@@ -294,6 +295,7 @@ All my projects are <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
 [![Traveling](https://img.shields.io/badge/Traveling-FF6B6B?style=for-the-badge&logo=tripadvisor&logoColor=white)]()
 [![Cooking](https://img.shields.io/badge/Cooking-FF4500?style=for-the-badge&logo=cooking&logoColor=white)]()
 [![Astronomy](https://img.shields.io/badge/Astronomy-1B1464?style=for-the-badge&logo=nasa&logoColor=white)]()
+![Marine Biology](https://img.shields.io/badge/Marine_Biology-0077B6?style=for-the-badge&logo=oceans&logoColor=white)
 
 ## 🤝 Let's Connect!
 
