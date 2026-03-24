@@ -2,7 +2,7 @@ Hello! I'm **Shivani Bhat**, an enthusiastic and creative engineering student wi
 
 View my project portfolio here: https://shivanibhat24.github.io/Project-Portfolio/root/main/index.html
 
-View my graphic design portfolio here: https://shivanibhat24.github.io/Project-Portfolio/root/graphic_design/portfolio.html
+View my graphic design portfolio here: https://shivani-graphic-design-portfolio.vercel.app/
 
 Exploring Variety to Unlock and Unleash my full Potential! 🔥
 
